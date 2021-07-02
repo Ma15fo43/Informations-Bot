@@ -9,7 +9,7 @@
     "@types/express": "^4.17.12",
     "@types/mongoose": "^5.11.97",
     "@types/ms": "^0.7.31",
-    "@types/node": "^15.6.1",
+    "@types/node": "^15.14.0",
     "basic-ftp": "^4.6.6",
     "better-sqlite3": "^7.4.1",
     "body-parser": "^1.19.0",
