@@ -18,7 +18,7 @@
     "dom-parser": "^0.1.6",
     "dotenv": "^10.0.0",
     "ejs": "^3.1.6",
-    "eslint": "^7.29.0",
+    "eslint": "^7.30.0",
     "express": "^4.17.1",
     "express-handlebars": "^5.3.2",
     "ffmpeg-static": "^4.4.0",
