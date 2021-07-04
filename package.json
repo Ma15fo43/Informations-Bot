@@ -30,7 +30,7 @@
     "lyric-get": "^1.0.3",
     "minimist": "^1.2.5",
     "moment": "^2.29.1",
-    "mongoose": "^5.12.14",
+    "mongoose": "^5.13.2",
     "ms": "^2.1.3",
     "node-fetch": "^2.6.1",
     "node-gyp": "^8.1.0",
